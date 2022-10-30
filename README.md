@@ -15,7 +15,7 @@
 https://github.com/bilaalbolat/kodluyoruzilkrepo.git
 ```
 
-[PatikaDev](www.patika.dev)
+[PatikaDev](https://www.patika.dev/)
 
 ## Usage
 ----------------------------------------------------------
