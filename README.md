@@ -9,11 +9,14 @@
 ## Installation
  -----------------------------------------------------------
 
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi clonelayın. Repo linkim ve patika.dev linki.
 
 ``` 
 https://github.com/bilaalbolat/kodluyoruzilkrepo.git
 ```
+
+[PatikaDev](www.patika.dev)
+
 ## Usage
 ----------------------------------------------------------
 
